@@ -1,3 +1,2 @@
 # AQI-analysis
-Project worked on by me and a classmate.
-Doing an analysis on AQI of Inida
+This is a project that me and friend did for a  class. We did an indepth regression analysis on air quality index for the country of India.
